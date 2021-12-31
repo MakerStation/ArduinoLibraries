@@ -1,0 +1,7 @@
+#######################################
+# Syntax Coloring Map For MYSIM800L
+#######################################
+
+MYSIM800L	KEYWORD1
+
+begin	KEYWORD2

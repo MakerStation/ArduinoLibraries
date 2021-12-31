@@ -33,3 +33,4 @@
 
 # VisualStudioCode purposes
 .vscode/*
+/.DS_Store
